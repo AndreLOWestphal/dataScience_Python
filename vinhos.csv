@@ -1,0 +1,17 @@
+VINHO;TIPO;ESTILO;COR;CHEIRO;PRECO
+Madeira;Tinto;Seco;Claro;Cassis;50
+Madeira;Tinto;Suave;Escuro;Amora;54
+Madeira;Branco;Seco;Claro;Aroma Animal;58
+Madeira;Branco;Suave;Escuro;Coco;45
+Pergola;Tinto;Seco;Claro;Goiaba;20
+Pergola;Tinto;Suave;Escuro;Frutas Vermelhas;28
+Pergola;Branco;Seco;Claro;Aroma Animal;22
+Pergola;Branco;Suave;Escuro;Menta;35
+Porto;Tinto;Seco;Claro;Cereja;110
+Porto;Tinto;Suave;Escuro;Ameixa Preta;124
+Porto;Branco;Seco;Claro;Cogumelo;95
+Porto;Branco;Suave;Escuro;Baunilha;86
+Argentino;Tinto;Seco;Claro;Chocolate;285
+Argentino;Tinto;Suave;Escuro;Cafe Torrado;245
+Argentino;Branco;Seco;Claro;Pimenta Branca;267
+Argentino;Branco;Suave;Escuro;Aroma Animal;200
