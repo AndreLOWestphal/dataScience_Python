@@ -31,4 +31,9 @@ modelo.fit(xTreino, yTreino)
 # Avaliar o modelo
 resultado = modelo.score(xTeste, yTeste)
 print('Acuracia: ', resultado)
-print(modelo.fit)
+
+real = yTeste[2:10]
+print(real)
+
+pre = modelo.predict((xTeste[2:10]))
+print(pre)
